@@ -1,0 +1,43 @@
+builtin:
+  disabled:
+    - anysphere.cursor-agent-exec
+    - anysphere.cursor-always-local
+    - anysphere.cursor-resolver
+    - anysphere.cursor-retrieval
+    - undefined.cursor-themes
+disabled:
+  - id: vscodevim.vim
+    uuid: d96e79c6-8b25-4be3-8545-0e0ecefcae03
+enabled:
+  - id: arcticicestudio.nord-visual-studio-code
+    uuid: 6f35c257-7fd5-4bc2-9cd1-01976589c17a
+  - id: bradlc.vscode-tailwindcss
+    uuid: 4db62a7c-7d70-419c-96d2-6c3a4dc77ea5
+  - id: castwide.solargraph
+    uuid: 349e83e2-207c-4309-a8d2-dfa43f7ee0c9
+  - id: Catppuccin.catppuccin-vsc
+    uuid: 69264e4d-cd3b-468a-8f2b-e69673c7d864
+  - id: dbaeumer.vscode-eslint
+    uuid: 583b2b34-2c1e-4634-8c0b-0b82e283ea3a
+  - id: enkia.tokyo-night
+    uuid: 1cac7443-911e-48b9-8341-49f3880c288a
+  - id: esbenp.prettier-vscode
+    uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
+  - id: jdinhlife.gruvbox
+    uuid: c6d564c4-ca8c-45ba-abf6-c85f2d1468d8
+  - id: mvllow.rose-pine
+    uuid: 6ef63bba-e6b8-4209-b562-9a927f36ae8f
+  - id: rangav.vscode-thunder-client
+    uuid: 2fd56207-78ef-49d4-95d2-9b801eee4dbf
+  - id: sainnhe.everforest
+    uuid: 330982cd-dddd-4939-b9ad-656ce474b089
+  - id: Shopify.ruby-extensions-pack
+    uuid: 430af273-c0cc-4565-a417-6ee1991bbf4c
+  - id: Shopify.ruby-lsp
+    uuid: ef656a13-3703-477b-9f36-672a0c949b96
+  - id: sorbet.sorbet-vscode-extension
+    uuid: 67d58bf5-9c4f-495f-bee0-d1d3f5898a8b
+  - id: svelte.svelte-vscode
+    uuid: c5463f77-75d9-4a25-8cc4-d8541a461285
+  - id: zokugun.cron-tasks
+    uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb
